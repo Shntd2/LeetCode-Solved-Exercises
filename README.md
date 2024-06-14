@@ -1,2 +1,5 @@
 # LeetCode-Solved-Exercises
-Contains solved exercises from LeetCode
+
+This repository contains solved exercises from LeetCode distributed by language:
+
+* Python3
